@@ -11,10 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=embedded%20system%20%20dveloper;Communication%20and%20electronics%20engineering&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=18"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer
+- 🏢 I'm a Software & cloud Engineer
 - 🏢 I'm a Communication and electronics Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with embedded system engineering
+- 💬 Ask me about my experience with software & cloud  engineering
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
